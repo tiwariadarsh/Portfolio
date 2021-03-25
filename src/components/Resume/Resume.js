@@ -19,8 +19,8 @@ function Resume() {
               title="GsSoC 2021"
               date="fab 20201 - april 2021"
               content={[
-                "Assembled the data from various social media platforms using Twitter, Reddit.Interpreted the collected text using word-clouds and various other factors that affect the change of sentiments of youth.",
-                " Utilized the data to find the issues using Topic Modelling and Building models using LSTM, BERT to predict the sentiments of the youth.",
+                "Participated in open source fest.",
+                "Contibuted on different projects related to Data Structures and Algorithm , and Android Application with Flutter",
               ]}
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
